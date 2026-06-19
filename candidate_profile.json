@@ -1,0 +1,37 @@
+{
+  "name": "AI Engineer Candidate",
+  "skills": [
+    "AWS",
+    "Data Analysis",
+    "Data Engineering",
+    "Data Science",
+    "Keras",
+    "Machine Learning",
+    "NLP",
+    "Neural Networks",
+    "PyTorch",
+    "Python",
+    "SQL",
+    "Scikit-learn",
+    "Spark",
+    "Statistics",
+    "TensorFlow"
+  ],
+  "years_experience": 5,
+  "preferred_locations": [
+    "Anywhere",
+    "Remote",
+    "United States",
+    "Texas",
+    "Florida",
+    "Ohio",
+    "Illinois",
+    "New Jersey",
+    "California",
+    "North Carolina",
+    "Tennessee",
+    "Washington",
+    "New York"
+  ],
+  "excluded_companies": []
+}

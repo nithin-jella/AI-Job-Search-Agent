@@ -1,0 +1,19 @@
+Professional Summary
+
+AI/ML engineer with strong experience in Python, machine learning, and data analysis.
+Experienced in developing predictive models and deep learning systems for real-world applications.
+Skilled in building scalable data pipelines and optimizing machine learning performance.
+Collaborative problem solver with experience deploying AI solutions across business teams.
+
+Experience
+
+• Built machine learning models using Python and Scikit-learn to predict business outcomes.
+• Developed deep learning pipelines using TensorFlow and PyTorch.
+• Processed large-scale datasets using SQL and Pandas.
+• Collaborated with product teams to deploy AI-powered analytics solutions.
+• Improved model accuracy through feature engineering and hyperparameter tuning.
+• Created automated reporting dashboards for data-driven decision making.
+
+Skills
+
+Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL, Data Analysis, NLP, Statistics
