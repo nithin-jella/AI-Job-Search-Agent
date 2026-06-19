@@ -1,0 +1,1 @@
+{"input_rows": 30, "after_location_filter": 8, "after_skill_filter": 8, "after_experience_filter": 5, "filters_applied": ["location_match_or_remote", "skill_overlap_count >= 2", "years_experience_required <= candidate_years"]}

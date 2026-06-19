@@ -1,0 +1,16 @@
+{
+  "tool_name": "Resume Tailoring Tool",
+  "selected_job_title": "AI Engineer III - Blue Ring",
+  "company": "Blue Origin Personnel, LLC",
+  "selected_original_bullets": [
+    "Built machine learning models using Python and Scikit-learn to predict business outcomes.",
+    "Developed deep learning pipelines using TensorFlow and PyTorch."
+  ],
+  "tailored_summary": "AI/ML engineer with strong experience in Python, machine learning, and data analysis, skilled in building scalable AI solutions and deploying machine learning models on AWS",
+  "tailored_bullets": [
+    "Developed and deployed machine learning models using Python, TensorFlow, and PyTorch for predictive analytics and real-world applications",
+    "Built and optimized deep learning pipelines using TensorFlow and PyTorch, with experience in scalable data engineering and AI solution deployment on cloud platforms like AWS"
+  ],
+  "reasoning": "Tailored the summary and bullets to match the job title, required skills, and shortened job description, focusing on AI/ML engineering, Python, TensorFlow, PyTorch, and AWS",
+  "job_rank": 1
+}

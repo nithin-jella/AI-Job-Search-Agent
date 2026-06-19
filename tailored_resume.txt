@@ -1,0 +1,8 @@
+Target Job: AI Engineer III - Blue Ring - Blue Origin Personnel, LLC
+
+Tailored Resume Summary
+AI/ML engineer with strong experience in Python, machine learning, and data analysis, skilled in building scalable AI solutions and deploying machine learning models on AWS
+
+Tailored Experience Bullets
+1. Developed and deployed machine learning models using Python, TensorFlow, and PyTorch for predictive analytics and real-world applications
+2. Built and optimized deep learning pipelines using TensorFlow and PyTorch, with experience in scalable data engineering and AI solution deployment on cloud platforms like AWS
